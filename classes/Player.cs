@@ -1,6 +1,6 @@
 namespace AulaPOO_PolimosrfismoSobreposicao.classes
 {
-    public class Player
+    public abstract class Player
     {
         private float velocidade = 1;
         private float forcaPulo = 1;
